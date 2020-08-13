@@ -1,6 +1,6 @@
 # [LUSH](https://www.lush.co.kr/main/index.php) is a cosmetics retailer that produces and sells creams, soaps, shampoos, shower gels, lotions, moisturisers, scrubs, masks and other cosmetics for the face, hair, and body using only vegetarian recipes. This particular webistes not only cosmetic products but also spa and community events.
 
-##This project was done by 3 backends and 3 frontends
+## This project was done by 3 backends and 3 frontends
 
 ## Demo
 (https://youtu.be/Av_p4sCT4Wg)
