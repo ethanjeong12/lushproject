@@ -3,7 +3,7 @@
 ## This project was done by 3 backends and 3 frontends
 
 ## Demo
-(https://youtu.be/Av_p4sCT4Wg)
+(https://www.youtube.com/watch?v=pjOPUkIn6mw)
 
 ## Applied Skills (Backend)
 
